@@ -48,7 +48,7 @@ public class Main {
         var newEmployers = 94;
         var newStuff = howMuchEmployers + newEmployers;
         var newHours = allHours / newStuff;
-        System.out.println("Если в кампании работает " + newStuff + " человек, то всего " + newHours + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в кампании работает  " + newStuff + "человек, то всего" + newHours + "часов работы может быть поделено между сотрудниками");
 
 
 
